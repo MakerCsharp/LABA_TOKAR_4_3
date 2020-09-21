@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LABA_TOKAR_4_3", "LABA_TOKAR_4_3\LABA_TOKAR_4_3.csproj", "{FEF810DB-38B6-4669-99AD-8EFD03698C25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF810DB-38B6-4669-99AD-8EFD03698C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF810DB-38B6-4669-99AD-8EFD03698C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF810DB-38B6-4669-99AD-8EFD03698C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF810DB-38B6-4669-99AD-8EFD03698C25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE39375B-2683-489F-9F51-D8F9BD22AF68}
+	EndGlobalSection
+EndGlobal
